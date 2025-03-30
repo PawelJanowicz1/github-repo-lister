@@ -6,6 +6,7 @@ This is a simple Spring Boot application that fetches GitHub repositories for a 
 
 * Java
 * Spring Boot (MVC)
+* Spring Boot Test
 * Maven
 
 ## :camera: Screenshots
