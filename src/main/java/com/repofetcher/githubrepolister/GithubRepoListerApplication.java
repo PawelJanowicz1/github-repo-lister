@@ -9,5 +9,4 @@ public class GithubRepoListerApplication {
     public static void main(String[] args) {
         SpringApplication.run(GithubRepoListerApplication.class, args);
     }
-
 }
