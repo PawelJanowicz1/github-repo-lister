@@ -2,8 +2,6 @@
 
 This is a simple Spring Boot application that fetches GitHub repositories for a given user, excluding forks. It also provides branch information (branch name and last commit SHA). If the user does not exist, the API returns a 404 with a custom error response.
 
-**Disclaimer:** This project was created for the recruitment process at Atipera. It is a demonstration application and is not intended for production use.
-
 ## :hammer_and_wrench: Used Technologies
 
 * Java
