@@ -23,4 +23,4 @@ Test Passed                  | Environment Variables
 
 ## :lock: Important Note on GitHub Token
 
-To avoid hitting the GitHub API rate limit (and getting 500 internal server error), you **must** set your personal GitHub token as an environment variable. In your `application.properties`.
+To avoid hitting the GitHub API rate limit (and getting 500 internal server error), you **must** set your personal GitHub token as an environment variable in your `application.properties`.
