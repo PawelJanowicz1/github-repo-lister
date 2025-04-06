@@ -9,5 +9,4 @@ class GithubRepoListerApplicationTests {
     @Test
     void contextLoads() {
     }
-
 }
