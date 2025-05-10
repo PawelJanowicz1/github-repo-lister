@@ -5,7 +5,7 @@ This is a simple Spring Boot application that fetches GitHub repositories for a 
 ## :hammer_and_wrench: Used Technologies
 
 * Java
-* Spring Boot (MVC)
+* Spring Boot
 * Spring Boot Test
 * Maven
 
