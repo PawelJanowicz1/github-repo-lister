@@ -6,7 +6,7 @@ This is a simple Spring Boot application that fetches GitHub repositories for a 
 
 * Java 21
 * Spring Boot 3.4
-* Spring RestTemplate (HTTP client)  
+* RestTemplate
 * Spring Boot Test
 * Maven
 
